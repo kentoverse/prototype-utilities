@@ -10,7 +10,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.ConfigurableEnvironment;
 
 @Configuration
-@EnableDiscoveryClient
 @EnableFeignClients(basePackageClasses = { ReservationBusinessServicesApplication.class })
 @ComponentScan(basePackageClasses = { ReservationBusinessServicesApplication.class })
 public class FeignConfig {

@@ -8,14 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="eureka-server" />
-        <module name="room-services" />
+        <module name="guest-services" />
         <module name="reservation-business-services" />
+        <module name="reservation-services" />
+        <module name="reservation-webapp" />
+        <module name="room-services" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="guest-services" target="1.8" />
       <module name="reservation-business-services" target="1.8" />
+      <module name="reservation-services" target="1.8" />
+      <module name="reservation-webapp" target="1.8" />
       <module name="room-services" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guest-services/guest-services.iml" filepath="$PROJECT_DIR$/guest-services/guest-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/reservation-business-services/reservation-business-services.iml" filepath="$PROJECT_DIR$/reservation-business-services/reservation-business-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-services/reservation-services.iml" filepath="$PROJECT_DIR$/reservation-services/reservation-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-webapp/reservation-webapp.iml" filepath="$PROJECT_DIR$/reservation-webapp/reservation-webapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/room-services/room-services.iml" filepath="$PROJECT_DIR$/room-services/room-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
     </modules>
